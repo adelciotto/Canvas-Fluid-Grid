@@ -1,0 +1,16 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+	overflow: hidden;
+}
+
+.center {
+	outline: none;
+	margin: auto;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
